@@ -67,6 +67,7 @@ namespace Practical_lesson_Part_1
             }
 
             txtResult.Text = result;
+
         }
     }
 }
